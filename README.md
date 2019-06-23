@@ -26,7 +26,7 @@ python3 BlueSavedWifiPassword.py
 * La contraseña de la red Wifi almacenada se  en su pantalla.
 
 ## Requisitos
-* Sistema Windows o GNU/Linux
+* Sistema Windows o GNU/Linux.
 * Python 3 (Se recomienda la versión más actual de este lenguaje de programación).
 
 ## Advertencia
