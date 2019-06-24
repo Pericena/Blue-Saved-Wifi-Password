@@ -1,5 +1,5 @@
 # Blue Saved Wifi Password
-‘Blue Saved Wifi Password’ es una herramienta sencilla diseñada en ‘Python 3’ el cual tiene la función de extraer las contraseñas de Wifi  almacenadas en la computadora en la cual se utilice la herramienta. 
+‘Blue Saved Wifi Password’ es una herramienta sencilla diseñada en ‘Python 3’ la cual tiene la función de extraer las contraseñas de Wifi  almacenadas en la computadora en la cual se utilice la herramienta. 
 ## Instalación
 **Descargue la última versión**
 ```
