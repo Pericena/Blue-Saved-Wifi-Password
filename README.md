@@ -23,7 +23,7 @@ python3 BlueSavedWifiPassword.py
 * La herramienta le mostrará  todas las redes almacenadas en su computadora, cada una con su respectiva contraseña.
 ### Sistema GNU/Linux
 * La herramienta le mostrará  las redes almacenadas en su computadora. Usted simplemente debe escribir el nombre de la red a la cual desea extraer su contraseña.
-* La contraseña de la red Wifi almacenada se  en su pantalla.
+* La contraseña de la red Wifi almacenada se mostrará en su pantalla.
 
 ## Requisitos
 * Sistema Windows o GNU/Linux.
